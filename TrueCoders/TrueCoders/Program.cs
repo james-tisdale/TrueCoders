@@ -8,7 +8,7 @@ namespace TrueCoders
         {
             var james = new People();
             james.Age = 30;
-            james.FirstName = "James";
+            james.FirstName = "James"; 
             james.LastName = "Tisdale";
             james.HairColor = "Blonde";
 
